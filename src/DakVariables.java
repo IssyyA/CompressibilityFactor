@@ -51,7 +51,7 @@ public class DakVariables {
 
     }
 
-      // This calculates for the variable pr ie Reduced density
+      // This calculates for the variable pr i.e Reduced density
     public double reducedDensity(double Ppr , double Tpr, double z){
         double d = ((0.27 * Ppr)/(z * Tpr));
         return d;
