@@ -3,6 +3,7 @@ import java.util.Scanner;
 import java.text.DecimalFormat;
 
 /**
+ * This class will estimate the Compressibility (Z)-factor using Newton's Method recursively
  * f(z1) = z1- (1 + (c1 * pr) + (c2 * Math.pow(pr,2) - (c3 * Math.pow(pr,5) + c4)
  * */
 
